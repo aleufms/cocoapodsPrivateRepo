@@ -31,7 +31,7 @@
         "KondutoSDK.framework"
       ],
       "resources": [
-
+        KondutoSDK.framework/*
       ],
       "source_files": [
 

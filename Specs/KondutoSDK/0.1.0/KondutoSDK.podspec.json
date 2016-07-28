@@ -17,6 +17,7 @@
     "http": "https://github.com/aleufms/frameworkTest/raw/master/Subspecs/0.1.0/KondutoSDK.framework.zip"
   },
   "ios": {
+    "source_files": "KondutoSDK.framework/Headers/*.h",
     "public_header_files": "KondutoSDK.framework/Headers/*.h",
     "vendored_frameworks": "KondutoSDK.framework"
   }

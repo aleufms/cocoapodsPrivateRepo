@@ -31,13 +31,14 @@
         "KondutoSDK.framework"
       ],
       "resources": [
-        "KondutoSDK.framework/*",
-        "KondutoSDK.framework/Modules/*",
-        "KondutoSDK.framework/Modules/KondutoSDK.swiftmodule/*"
+
       ],
       "source_files": [
-        "KondutoSDK.framework/Headers/*"
+
       ],
+      "public_header_files": [
+        "KondutoSDK.framework/Headers/*.h"
+      ]
       "frameworks": [
         "Foundation"
       ]

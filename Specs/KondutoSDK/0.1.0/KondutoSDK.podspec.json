@@ -36,7 +36,7 @@
         KondutoSDK.framework/Modules/KondutoSDK.swiftmodule/*
       ],
       "source_files": [
-        KondutoSDK.framework/Headers/*,
+        KondutoSDK.framework/Headers/*
       ],
       "frameworks": [
         "Foundation"

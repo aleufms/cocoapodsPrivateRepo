@@ -1,0 +1,44 @@
+{
+  "name": "KondutoSDK",
+  "version": "0.1.0",
+  "summary": "Konduto SDK for iOS.",
+  "description": "Use the Konduto SDK for iOS to ...",
+  "homepage": "https://konduto.com",
+  "license": {
+    "text": "     Text here.\n      And here.\n",
+    "type": "Copyright"
+  },
+  "authors": "Konduto.",
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": [
+
+  ],
+  "preserve_paths": [
+
+  ],
+  "default_subspecs": [
+    "Konduto"
+  ],
+  "source": {
+    "http": "https://github.com/aleufms/frameworkTest/raw/master/Subspecs/0.1.0/KondutoSDK.tar.gz"
+  },
+  "subspecs": [
+    {
+      "name": "Konduto",
+      "vendored_frameworks": [
+        "KondutoSDK.framework"
+      ],
+      "resources": [
+
+      ],
+      "source_files": [
+
+      ],
+      "frameworks": [
+        "Foundation"
+      ]
+    },
+  ]
+}
